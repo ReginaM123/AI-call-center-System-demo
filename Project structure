@@ -1,0 +1,17 @@
+ai-call-center/
+│
+├── backend-python/
+│   ├── main.py
+│   ├── ai_agent.py
+│   ├── database.py
+│   └── requirements.txt
+│
+├── backend-node/
+│   ├── server.js
+│   ├── twilio.js
+│   └── package.json
+│
+├── frontend/
+│   ├── index.html
+│   └── app.js
+│
