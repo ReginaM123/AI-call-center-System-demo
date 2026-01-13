@@ -1,0 +1,11 @@
+Customer Phone
+     ↓
+Twilio (Calls)
+     ↓
+Node.js Server (Call Streaming)
+     ↓
+Python AI Agent API (NLP + Logic)
+     ↓
+Text-to-Speech
+     ↓
+Customer Hears Response
